@@ -5,7 +5,6 @@ The quality of results mentioned in the research papers is contained in informat
 Main problem:
 1. Going through numerous documents to find out particular values becomes time consuming
 2. Finding essential keywords of a particular domain becomes a laborious task
-3. To increase the efficiency of search-related tasks and reduce time wastage 
-The goal of data extraction is to recognize the text and images from a static document and convert it into desired format (like .docx, .pdf, .png, .jpg) 
-Processes involved are- preprocessing, segmentation, feature extraction, classification, post-processing for text analysis. 
+
+The goal of data extraction is to increase the efficiency of search-related tasks and reduce time wastage. 
 This will help various people around the globe in making the research work efficient and less time consuming. 
